@@ -102,7 +102,7 @@ for i in range(3):
 #definir estado inicial e simbolo para o espaço vazio
 estado_inicial = [int(x) if x != '-' else None for x in estado_inicial]
 
-caminho = bgl(estado_inicial)
+caminho = bgl(estado_inicial)#Chama a função de busca gulosa
 
 #Para Verificar se tem solução
 #se não tiver solução não foi emcontrada
