@@ -8,5 +8,6 @@ The goal state, regardless of the user-defined initial state, must be:
 | 4 | 5 | |
 | 6 | 7 | 8 |
 
+
 Link of the code running in <a href="https://replit.com/@ThomasFrentzel/Heuristic-Search-Methods?v=1">Replit.</a>
 
